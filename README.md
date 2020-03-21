@@ -6,7 +6,7 @@ Since the 1930s, Walt Disney Studios has released more than 600 films covering a
 
 ## Files
 1) data - Market cap of 2018 & 2017 in csv format
-2) notebook - .ipynb file with EDA on the data
+2) notebook - notebook.ipynb file with EDA on the data
 
 ## Libraries
 pandas, seaborn
